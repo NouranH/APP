@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="title_activity_gridViewAdapter">MyMovies</string>
+    <string name="favourite">Favourite</string>
+    <string name="popular">Popular</string>
+    <string name="highRate">HighRate</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_sort_by_popularity">Most Popular</string>
+    <string name="action_sort_by_rating">Top Rated</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="action_sort_by_favorite">Favorites</string>
+    <string name="isTablet">false</string>
+    <string name="my_api_key">" "</string>
+
+
+</resources>
